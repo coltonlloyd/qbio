@@ -4,3 +4,4 @@ matplotlib
 graphviz
 sklearn
 scipy
+pydotplus
