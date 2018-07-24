@@ -1,4 +1,5 @@
 cobra==0.13.0
 escher
 matplotlib
+graphviz
 orange3
