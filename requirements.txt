@@ -3,4 +3,4 @@ escher
 matplotlib
 graphviz
 sklearn
-
+scipy
