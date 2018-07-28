@@ -15,6 +15,9 @@ for r in reactions:
     reactions_and_info[r]['upper_bound'] = r_obj.upper_bound
     reactions_and_info[r]['lower_bound'] = r_obj.lower_bound
     reactions_and_info[r]['name'] = r_obj.name
+    reactions_and_info[r]['gene_reaction_rule'] = r_obj.gene_reaction_rule
+
+print(reactions_and_info)
 
 mets_and_info = {}
 for r in reactions_and_info:
