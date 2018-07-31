@@ -14,6 +14,21 @@ carbon_sources = \
      'xyl__D_e', 'EX_xylu__L_e', 'EX_4hphac_e', 'EX_4hthr_e', 'EX_oaa_e', 'EX_drib_e',
      '2pg_e', 'EX_3pg_e', 'EX_3hoxpac_e', 'EX_galam_e', 'EX_raffin_e', 'EX_arab__D_e']
 
+phosphorus_sources = \
+    ['EX_pi_e', 'EX_fmn_e', 'EX_amp_e', 'EX_g6p_e', 'EX_cbl1_e', 'EX_nmn_e',
+     'EX_f6p_e', 'EX_glyc3p_e', 'EX_gam6p_e', 'EX_minohp_e', 'EX_ppt_e',
+     'EX_gdp_e', 'EX_gtp_e', 'EX_fad_e', 'EX_adocbl_e', 'EX_23camp_e',
+     'EX_23cgmp_e', 'EX_23cump_e', 'EX_3amp_e', 'EX_3gmp_e', 'EX_3ump_e',
+     'EX_eca4colipa_e', 'EX_imp_e', 'EX_gmp_e', 'EX_ump_e', 'EX_enlipa_e',
+     'EX_hacolipa_e', 'EX_r5p_e', 'EX_glyc2p_e', 'EX_halipa_e', 'EX_cmp_e',
+     'EX_acgam1p_e', 'EX_glcur1p_e', 'EX_thrp_e', 'EX_dump_e', 'EX_gal1p_e',
+     'EX_dcmp_e', 'EX_23ccmp_e', 'EX_3cmp_e', 'EX_g3pe_e', 'EX_acgal1p_e',
+     'EX_tyrp_e', 'EX_uacgam_e', 'EX_udpacgal_e', 'EX_udpg_e', 'EX_udpgal_e',
+     'EX_udpglcur_e', 'EX_pser__L_e', 'EX_g3pc_e', 'EX_g3pg_e', 'EX_g3pi_e',
+     'EX_g3ps_e', 'EX_xmp_e', 'EX_damp_e', 'EX_dimp_e', 'EX_dgmp_e',
+     'EX_man6p_e', 'EX_g1p_e', 'EX_dtmp_e', 'EX_mepn_e']
+
+
 strain_classification = {'iLF82_1304': 'InPec',
                          'iNRG857_1313': 'InPec',
                          'iUMN146_1321': 'InPec',
