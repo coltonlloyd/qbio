@@ -1,4 +1,4 @@
-cobra==0.13.0
+cobra
 escher
 matplotlib
 graphviz
